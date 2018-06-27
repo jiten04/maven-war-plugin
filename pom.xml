@@ -31,7 +31,7 @@
 
   <artifactId>maven-war-plugin</artifactId>
   <version>3.2.3-SNAPSHOT</version>
-  <packaging>maven-plugin</packaging>
+  <packaging>.war</packaging>
 
   <name>Apache Maven WAR Plugin</name>
   <description>444xBuilds a Web Application Archive (WAR) file from the project output and its dependencies.</description>
